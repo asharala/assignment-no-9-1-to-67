@@ -1,0 +1,107 @@
+/* .clanwars {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column-reverse;
+    margin: auto;
+    color: #fff;
+  }
+  
+  .clanwars .cw-row {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #5fe08a;
+    border-radius: 4px;
+  }
+  
+  .clanwars .cw-row:not(:last-of-type) {
+    margin-bottom: 5px;
+  }
+  
+  .clanwars .cw-row .cw-infos {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+  }
+  
+  .clanwars .cw-row .cw-infos .cw-infos-side {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-overflow: ellipsis;
+  }
+  
+  .clanwars .cw-row .cw-infos .cw-infos-side:last-child {
+    flex-direction: row-reverse;
+  }
+  
+  .clanwars .cw-row .cw-infos .cw-infos-side .cw-infos-side-logo {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+    background: #1c1e25;
+    border-radius: 100px;
+  }
+  
+  .clanwars .cw-row .cw-infos .cw-infos-side .cw-infos-side-logo img {
+    width: 32px;
+    height: 32px;
+    border-radius: 100px;
+    object-fit: contain;
+  }
+  
+  .clanwars .cw-row .cw-infos .cw-infos-score {
+    margin: 0 auto;
+  }
+  
+  .clanwars .cw-row .cw-infos .cw-infos-score .cw-infos-score-box {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    padding: 13px 15px;
+    text-align: center;
+    text-overflow: ellipsis;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    background: transparent;
+    border-radius: 100px;
+  }
+  
+  .clanwars .cw-row .cw-infos .cw-infos-score .cw-infos-score-box span {
+    padding: 0 5px;
+  }
+  
+  .clanwars .cw-row .cw-details {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0 15px 0;
+  }
+  
+  .clanwars .cw-row .cw-details div {
+    margin: 0 10px;
+  }
+  
+  .clanwars .cw-row .cw-details span {
+    opacity: 0.6;
+  }
+  
+  .clanwars .cw-row .cw-details div i {
+    font-size: 1.1em;
+    opacity: 0.6;
+    padding: 0 3px;
+  } */
